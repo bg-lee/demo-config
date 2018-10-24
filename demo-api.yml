@@ -2,3 +2,7 @@ account:
  balance:
   k: 9000
   b: 0.00150000
+math:
+ ratio:
+  bid: 1.0
+  ask: 1.1
